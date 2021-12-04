@@ -1,0 +1,112 @@
+{
+  "baseUrl" : "https://mymarketplacebuilder.com",
+  "title" : "Multi-Vendor Online Marketplace Building Software - My Marketplace Builder",
+  "description" : "Create a Multi-Vendor Online Marketplace to sell products, services &amp; more. Choose a marketplace software that&#039;s easy to use, setup, and scale.",
+  "sections" : [
+    {
+      "partial" : "banner",
+      "data" : {
+        "title" : "You Make Money When Buyers & Sellers Connect",
+        "description" : "No developers needed. Build your multi-vendor marketplace with the click of a button",
+        "link" : "https://mymarketplacebuilder.com/software/book-meeting-us.html"
+      }
+    },
+    {
+      "partial" : "your-dreams-block",
+      "data" : {
+        "title" : "Build The Multi Vendor Website Of Your Dreams",
+        "description" : "No matter what type of marketplace you want, our in-house development team can turn it into reality. With over 120 feature add-ons already created, you’re able to start your marketplace exactly how you envision it."
+      }
+    },
+    {
+      "partial" : "logo-table-block",
+      "data" :  {
+        "title" : "Companies that have featured or used our technologies",
+        "items" : [
+          "images/logo-1.jpg",
+          "images/logo-2.jpg",
+          "images/logo-3.jpg",
+          "images/logo-4.jpg",
+          "images/logo-5.jpg"
+        ]
+      }
+    },
+    {
+      "partial" : "set-up-block",
+      "data" :  {
+        "items" : [
+          {
+            "icon" : "fa fa-hourglass-start",
+            "title": "Set up in minutes",
+            "description" : "Our software, crafted by award-winning entrepreneurs, allows you to set up your marketplace for a fraction of the time."
+          },
+          {
+            "icon" : "fa fa-object-group",
+            "title": "Your Marketplace - Your way",
+            "description" : "Customize your marketplace template by mixing and matching our 100's of add-ons to make your marketplace unique to your specific vertical."
+          },
+          {
+            "icon" : "fa fa-dollar-sign",
+            "title": "Save money",
+            "description" : "Save money by using our framework that has high conversion and stick rates. Read our free articles to help you get users while you sleep!"
+          },
+          {
+            "icon" : "fa fa-pencil-alt",
+            "title": "No developers needed",
+            "description" : "Save money by using our framework that has high conversion and stick rates. Read our free articles to help you get users while you sleep!"
+          }
+        ]
+      }
+    },
+    {
+      "partial" : "step-sec-block",
+      "data" : {
+        "title": "Follow These Steps To Build A Multi Vendor eCommerce Business Today",
+        "items" : [
+          "Choose The Type of Multi Vendor Website To Build",
+          "Pick The Design Layout &amp; Template You Like Best",
+          "Select Optional Custom Features",
+          "Publish Your Site"
+        ]
+      }
+    },
+    {
+      "partial" : "marketplace-styles-block",
+      "data" : {
+        "title" : "Multi Vendor Design Made Easy",
+        "subtitle" : "Easy Online Marketplace Builder",
+        "description" : "Select from hundreds of high converting and beautiful templates for the perfect marketplace layout for you. Start a marketplace from the ground up fast with our marketplace platform."
+      }
+    },
+    {
+      "partial" : "advanced-features-block",
+      "data" : {
+        "title" : "Marketplace Templates",
+        "subtitle" : "Easy Online Marketplace Builder",
+        "description" : "Select from hundreds of high converting and beautiful templates for the perfect marketplace layout for you. Start a marketplace from the ground up fast with our marketplace platform."
+      }
+    },
+    {
+      "partial":"get-started-building-block"
+    },
+    {
+      "partial" : "video-sec-block",
+      "data" : {
+        "title" : "Try The #1 Way To Build An Online Marketplace",
+        "description" : "We have the know-how that you need"
+      }
+    },
+    {
+      "partial" : "you-need-block",
+      "data" : {
+        "title" : "What Do You Need In A Marketplace?",
+        "description" : "Answer 7 questions and get a launch roadmap customized to you",
+        "link" : "https://mymarketplacebuilder.com/start-up-trial-page/"
+      }
+    },
+    {
+      "partial" : "covered-block"
+    }
+  ]
+  
+}

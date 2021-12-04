@@ -1,0 +1,12 @@
+{
+  "baseUrl" : "https://mymarketplacebuilder.com",
+  "title" : "QUIZ LANDER2: [Start Up Trial Page] - My Marketplace Builder",
+  "description" : "What Marketplace Fits You Best? This quiz will help you assess the best marketplace package to fit your needs.",
+
+  "sections" : [
+    {
+      "partial" : "quiz"
+    }
+  ]
+  
+}
