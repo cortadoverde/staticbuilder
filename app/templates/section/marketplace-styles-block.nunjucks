@@ -1,0 +1,14 @@
+<section class="marketplace-styles-block font-size15 dark">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-7">
+        <h2>{{ section.data.title }}</h2>
+        <h4>{{ section.data.subtitle }}</h4>
+        <p>{{ section.data.description }}</p>
+      </div>
+      <div class="col-md-5">
+        <img src="images/screen3.jpg" alt="Marketplace Styles">
+      </div>
+    </div>
+  </div>
+</section>

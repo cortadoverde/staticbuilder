@@ -1,0 +1,17 @@
+<section class="covered-block font-size15 dark">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h2>Want An App? We’ve Got You Covered</h2>
+        <p>We are proud to be a marketplace solution offering you an option for a fully functional mobile app. What are you waiting for?</p>
+        <p>See your app in the store now!</p>
+        <div class="button-block">
+          <a href="https://mymarketplacebuilder.com/software/book-meeting-us.html" data-wpel-link="internal" class="default-btn">Learn More</a>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <img src="images/app.png" alt="Want an app? We’ve got you covered">
+      </div>
+    </div>
+  </div>
+</section>

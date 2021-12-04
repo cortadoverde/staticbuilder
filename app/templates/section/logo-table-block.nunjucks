@@ -1,0 +1,12 @@
+<section class="logo-table-block">
+  <div class="container">
+    <h5>{{ section.data.title }}</h5>
+    <div class="row">
+      {% for logo in section.data.items %}
+      <div class="logo-table-box">
+        <img src="{{ logo }}"/>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

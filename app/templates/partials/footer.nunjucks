@@ -1,0 +1,58 @@
+<footer class="footer-block">
+  <div class="footer-box">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="footer-logo"><a title="My Marketplace Builder" href=""><img src="images/logo.png" alt="My Marketplace Builder"></a></div>
+          <div class="address-block">
+            <p>You Make Money<br>
+              When Buyers & Sellers Connect</p>
+            <p>M:<a href="mailto:hello@mymarketplacebuilder.com">hello@mymarketplacebuilder.com</a><br>
+              Located in Austin, Texas, 78704, USA</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="widget-nav-menu-block">
+            <h4>Get Started</h4>
+            <ul>
+              <li><a href="https://mymarketplacebuilder.com/start-up-trial-page/" data-wpel-link="internal">Take a Quiz</a></li>
+              <li><a href="https://onboarding.mymarketplacebuilder.com/application/Onboarding/?idPlan=1" data-wpel-link="internal">Start a trial</a></li>
+              <li><a href="https://mymarketplacebuilder.com/software/book-meeting-us.html" aria-current="page" data-wpel-link="internal">Enterprise</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="widget-nav-menu-block">
+            <h4>Resources</h4>
+            <ul>
+              <li><a href="https://mymarketplacebuilder.com/blog/" data-wpel-link="internal">Blog</a></li>
+              <li><a href="https://mymarketplacebuilder.com/frequently-asked-questions/" data-wpel-link="internal">FAQ</a></li>
+              <li><a href="https://mymarketplacebuilder.com/contact/" data-wpel-link="internal">Contact us</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="copyright-block">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">© MyMarketPlaceBuilder 2021. All rights reserved.</div>
+        <div class="col-md-4">
+          <ul class="social-media-block">
+            <li><a href="https://www.facebook.com/mymarketbuilder" target="_blank" data-wpel-link="external" rel="external noopener noreferrer"> <i class="fab fa-facebook-f"></i></a></li>
+            <li><a href="https://twitter.com/mymarketbuilder" target="_blank" data-wpel-link="external" rel="external noopener noreferrer"> <i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.linkedin.com/company/my-marketplace-builder" target="_blank" data-wpel-link="external" rel="external noopener noreferrer"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a></li>
+          </ul>
+        </div>
+        <div class="col-md-4">
+          <ul class="footer-links">
+            <li><a href="https://mymarketplacebuilder.com/privacy-policy/" data-wpel-link="internal">Privacy Policy</a></li>
+            <li><a href="https://mymarketplacebuilder.com/terms-and-conditions/" data-wpel-link="internal">Terms and Conditions</a></li>
+            <li><a href="https://mymarketplacebuilder.com/contact/" data-wpel-link="internal">Contact us</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

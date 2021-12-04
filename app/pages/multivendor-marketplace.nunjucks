@@ -1,0 +1,9 @@
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+  <div class="middle-container">
+    {% for section in sections %}
+      {% include 'section/' + section.partial + '.nunjucks' ignore missing %}
+    {% endfor %}
+  </div>
+{% endblock %}

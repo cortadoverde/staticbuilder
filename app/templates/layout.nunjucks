@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+{% include "partials/header.nunjucks" %}
+
+<body>
+  <div class="main-container" id="top">
+    {% include "partials/nav.nunjucks" %}
+    
+    {% block content %} {% endblock %}
+    
+    {% include "partials/footer.nunjucks" %}
+  </div>
+  {% include "partials/after_footer.nunjucks" %}
+</body>
+</html>

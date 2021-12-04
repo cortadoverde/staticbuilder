@@ -1,0 +1,26 @@
+<section class="why-choose-block font-size15">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="video-box">
+          <div class="video-box-image" data-video="https://www.youtube.com/embed/tRErjhJl4jA"><img src="images/video-thumbnail.jpg" alt="Video"></div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <h2>{{section.data.title}}</h2>
+        <p>{{section.data.description}}</p>
+        <ul>
+          <li>Affordable Package Pricing and Features Upgrades.</li>
+          <li>No contract needed.</li>
+          <li>Get users while you sleep!</li>
+          <li>Feature-rich solutions to be a cut-above your market rivals</li>
+          <li>Get FREE technical support & video training.</li>
+          <li>Completely customizable &amp; scalable marketplace solution.</li>
+          <li>Easy and flexible payment terms.</li>
+          <li>Scales to unlimited users.</li>
+        </ul>
+        <div class="button-block"><a href="https://mymarketplacebuilder.com/software/book-meeting-us.html" data-wpel-link="internal" class="default-btn">Learn More</a></div>
+      </div>
+    </div>
+  </div>
+</section>

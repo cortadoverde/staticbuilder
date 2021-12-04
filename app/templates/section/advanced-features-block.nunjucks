@@ -1,0 +1,17 @@
+<section class="marketplace-styles-block font-size15">
+  <div class="container">
+    <div class="row align-items-center full-width-flip">
+      <div class="col-md-7">
+        <h2>Advanced Features</h2>
+        <h4>Discounts, Featured Listings, Tax Jar</h4>
+        <p>
+          Any custom feature you are thinking of we can make a reality. Over 120 feature add-ons are already built out and you can use immediately. Whether you want to encourage more sales by offering discounts, add a new revenue stream by selling sponsored listings or sales tax automation we have you covered.
+        </p>
+
+      </div>
+      <div class="col-md-5">
+        <img src="images/screen4-7.jpg" alt="Online Business Card">
+      </div>
+    </div>
+  </div>
+</section>

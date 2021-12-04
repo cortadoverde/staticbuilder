@@ -1,0 +1,21 @@
+<section class="img-tex-sec text-sec steps-sec">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5  col-sm-12">
+        <div class="img-box">
+          <img src="images/Simple-Steps.png" alt="" class="img-responsive">
+        </div>
+      </div>
+      <div class="col-md-7 col-sm-12">
+        <div class="text">
+          <h2>{{section.data.title}}</h2>
+          <ol>
+            {% for item in section.data.items %}
+            <li>{{item}}</li>
+            {% endfor %}
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

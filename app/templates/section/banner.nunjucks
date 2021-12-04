@@ -1,0 +1,51 @@
+<div class="book-meeting-block">
+  <div class="container">
+    <div id="bookmeeting" class="owl-carousel owl-theme banner-slider-block">
+      <div class="item">
+        <div class="row align-items-center">
+          <div class="col-md-6"><img src="images/slider01.png" alt="Slider"></div>
+          <div class="col-md-6">
+            <h1>{{section.data.title}}</h1>
+            <p>{{section.data.description}}</p>
+            <div class="button-block hide-mobile-view">
+              <a href="{{ section.data.link }}">Book A Meeting</a>
+            </div>
+          </div>
+        </div>
+        <div class="button-block hide-desktop-view">
+          <a href="{{ section.data.link }}">Book A Meeting</a>
+        </div>
+      </div>
+      <div class="item">
+        <div class="row align-items-center">
+          <div class="col-md-6"><img src="images/slider02.png" alt="Slider"></div>
+          <div class="col-md-6">
+            <h1>{{section.data.title}}</h1>
+            <p>{{section.data.description}}</p>
+            <div class="button-block hide-mobile-view">
+              <a href="{{ section.data.link }}">Book A Meeting</a>
+            </div>
+          </div>
+        </div>
+        <div class="button-block hide-desktop-view">
+          <a href="{{ section.data.link }}">Book A Meeting</a>
+        </div>
+      </div>
+      <div class="item">
+        <div class="row align-items-center">
+          <div class="col-md-6"><img src="images/slider-banner03.png" alt="Slider"></div>
+          <div class="col-md-6">
+            <h1>{{section.data.title}}</h1>
+            <p>{{section.data.description}}</p>
+            <div class="button-block hide-mobile-view">
+              <a href="{{ section.data.link }}">Book A Meeting</a>
+            </div>
+          </div>
+        </div>
+        <div class="button-block hide-desktop-view">
+          <a href="{{ section.data.link }}">Book A Meeting</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
