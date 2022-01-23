@@ -51,4 +51,35 @@ gulp.task('quiz', function() {
 });
 
 
+gulp.task('ejemplo', function() {
+  // Gets .html and .nunjucks files in pages
+  return gulp.src('app/pages/ejemplo.nunjucks')
+  // Add data 
+  .pipe(data(function() {
+    return require('./data/ejemplo.json')
+  }))
+  // Renders template with nunjucks
+  .pipe(nunjucksRender({
+      path: ['app/templates']
+    }))
+  // output files in app folder
+  .pipe(gulp.dest('app'))
+});
+
+gulp.task('splash', function() {
+  // Gets .html and .nunjucks files in pages
+  return gulp.src('app/pages/splash_page_1.nunjucks')
+  // Add data 
+  .pipe(data(function() {
+    return require('./data/splash_page_1.json')
+  }))
+  // Renders template with nunjucks
+  .pipe(nunjucksRender({
+      path: ['app/templates']
+    }))
+  // output files in app folder
+  .pipe(gulp.dest('app'))
+});
+
+
 gulp.task('pages', gulp.parallel('build-online-marketplace', 'multivendor-marketplace', 'quiz'));

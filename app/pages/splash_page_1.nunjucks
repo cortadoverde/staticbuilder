@@ -1,0 +1,13 @@
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+  {% if inner_banner %}
+    {% include 'banner/' + inner_banner.partial + '.nunjucks' ignore missing %}
+  {% endif %}
+  
+  <div class="middle-container">
+    {% for section in sections %}
+      {% include 'section/' + section.partial + '.nunjucks' ignore missing %}
+    {% endfor %}
+  </div>
+{% endblock %}

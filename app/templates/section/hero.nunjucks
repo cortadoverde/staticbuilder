@@ -1,0 +1,19 @@
+<section class="steps-sec">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6  col-sm-12">
+        <div class="text">
+          <h2>{{section.data.title}}</h2>
+          <p>{{section.data.description}}</p>
+          <div class="your-dreams-button">
+            <a href="{{section.data.link}}" target="_self" data-wpel-link="internal">Book a Meeting</a>
+          </div>
+        </div>
+        
+      </div>
+      <div class="col-md-6 col-sm-12">
+        <img src="images/hero.png" alt="">
+      </div>
+    </div>
+  </div>
+</section>

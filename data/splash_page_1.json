@@ -1,0 +1,20 @@
+{
+  
+  "baseUrl" : "https://mymarketplacebuilder.com",
+  "title" : "Multi-Vendor Online Marketplace Building Software - My Marketplace Builder",
+  "description" : "Create a Multi-Vendor Online Marketplace to sell products, services &amp; more. Choose a marketplace software that&#039;s easy to use, setup, and scale.",
+  "gtag" : "ninguno",
+  "fb_pixel" : "ninguno",
+  
+  "sections" : [
+    {
+      "partial" : "hero",
+      "data" : {
+        "title" : "Nuevo titulo",
+        "description" : "Find Out Why So Many People Are Leaving Sharetribe For MyMarketPlaceBuilder",
+        "link" : "https://mymarketplacebuilder.com/software/book-meeting-us.html"
+      }
+    }
+  ]
+  
+}
